@@ -4,7 +4,7 @@ A cinematic Japan tourism landing page designed to showcase destinations, season
 
 ## Live Website
 
-**[Visit Discover Japan](https://discover-japan.higgsfield.app)**
+**[Visit Japan](https://discover-japan.higgsfield.app)**
 
 ## Overview
 
