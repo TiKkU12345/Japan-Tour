@@ -23,10 +23,6 @@ Discover Japan is a tourism landing page concept built to help visitors explore 
 
 The website is deployed on Higgsfield. The enquiry form is currently a demo interface; submissions are not connected to a production email or database unless separately configured.
 
-## Links
-
-- **Live site:** https://discover-japan.higgsfield.app
-- **GitHub repository:** Add your repository URL here after creating the repository.
 
 ## Disclaimer
 
